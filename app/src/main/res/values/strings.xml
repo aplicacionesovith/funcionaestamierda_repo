@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CALCULADORA DE LIQUIDOS</string>
     <string name="choose">Seleccione:</string>
-    <string name="hilera_p">Hilera principal</string></string>
+    <string name="hilera_p">Hilera principal</string>
     <string name="hilera_f">Hilera Final</string>
     <string name="quantity">Litros</string>
     <string name="plant_per_row">Plantas por hileras</string>
